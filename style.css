@@ -15,7 +15,7 @@ body{font-family: 'Be Vietnam Pro', sans-serif;
         display: flex;
        background-image: url(images/top-benner.png);
        background-repeat: no-repeat;
-       padding-bottom: 200px;
+       padding-bottom: 100px;
 
     }
     .haft-to-haft{
@@ -43,4 +43,43 @@ body{font-family: 'Be Vietnam Pro', sans-serif;
         background-image: url(images/dream-bg.png);
         background-repeat: no-repeat;
         background-position: right;
+    }
+    .flax-section-three{
+        display: flex;
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+    }
+    .box-shadow{
+        box-shadow: 6px 3px 25px grey;
+        width: 600px;
+        margin-left: 155px;
+        margin-right: 155px;
+        padding: 30px 40px 35px 54px;
+        border-radius: 10px;
+        line-height: 25px;
+        word-spacing: 3px;
+        border-left: 6px solid red;
+        
+    }
+    .box-shadow-two{
+        box-shadow: 6px 3px 25px grey;
+        width: 600px;
+        margin-left: 155px;
+        margin-right: 155px;
+        padding: 30px 40px 35px 54px;
+        border-radius: 10px;
+        line-height: 25px;
+        word-spacing: 3px;
+        border-left: 6px solid rgb(243, 6, 124);
+    }
+    h4{
+        color: #f80566;
+    }
+    footer{
+        text-align: center;
+        color: #616060;
+    }
+    .Experiences{
+        padding-left: 155px;
+        padding-top: 50px;
     }
